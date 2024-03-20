@@ -1,0 +1,1 @@
+from  .grupe1s import Grupe1
